@@ -1,0 +1,4 @@
+rpm-build/
+rpms/
+dist/
+packit4me-puppetmodules-release/
